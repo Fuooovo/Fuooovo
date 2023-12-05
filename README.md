@@ -1,5 +1,8 @@
 ### Hi👋,this is Fuooovo
 
+- 🌱I'm recently writing at https://Fuooovo.github.io/
+- 📫 How to reach me:1664283711@qq.com
+
 <!--
 **Fuooovo/Fuooovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
